@@ -1,7 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/comtechspec-website',
-  assetPrefix: '/comtechspec-website/',
+  // Removed basePath and assetPrefix since Vercel serves the app from the root.
   output: 'export'
 };
 
