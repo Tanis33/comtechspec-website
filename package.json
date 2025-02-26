@@ -2,6 +2,7 @@
   "name": "comtechspec-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tanis33.github.io/comtechspec-website",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
